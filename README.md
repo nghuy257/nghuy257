@@ -2,22 +2,44 @@
   <img src="https://files.catbox.moe/x2ebwr.webp" />
 </p>
 
+<h2 align="center">👋 Hi, I'm Ng Huy</h2>
 
-## 👋 Hi, I'm Ng Huy
+<p align="center">
+  🎨 Crafting clean and simple web experiences <br/>
+  🌱 Learning something new every day <br/>
+  🚀 Dreaming big, building step by step
+</p>
 
-- 🎨 Crafting clean and simple web experiences  
-- 🌱 Learning something new every day  
-- 🚀 Dreaming big, building step by step
+---
 
-  ![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JS-yellow?style=for-the-badge)
+### 🧰 Tech Stack
 
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+---
 
+### 📊 GitHub Stats
 
-![Streak](https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nghuy257&show_icons=true&theme=tokyonight" />
+</p>
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+### 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nghuy257&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghuy257&layout=compact&theme=tokyonight" />
+</p>
