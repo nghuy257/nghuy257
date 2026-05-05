@@ -35,30 +35,7 @@
   <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=figma"/>
-  <img src="https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nghuy257&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nghuy257&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nghuy257&layout=compact&theme=tokyonight" />
-</p>
